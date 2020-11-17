@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/cse587/hadoop-3.1.2/share/hadoop/common/hadoop-common-3.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/cse587/hadoop-3.1.2/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/cse587/Downloads/commons-fileupload-1.4-bin/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/cse587/Downloads/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
